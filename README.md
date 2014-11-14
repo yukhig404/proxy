@@ -1,7 +1,7 @@
 proxy
 =====
 
-RandomにWorkingでEliteなProxyをGetするためのクラス
+RandomにWorkingでEliteなProxyのIPaddressとPortをGetするためのクラス
 
     $hoge = new Proxy();
     $hoge->setRandomProxyAndPort();
